@@ -7,7 +7,7 @@ Created on Fri Apr 17 08:18:11 2020
 """
 
 '''
-Herencia implicita:
+Herencia implicita:something
 Se define el metodo en la clase madre pero NO en la hija'
 '''
 class Parent1():
